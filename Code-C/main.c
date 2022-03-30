@@ -13,5 +13,6 @@ int main(int argc, const char * argv[]) {
     for (int i=0; i<10; i++) {
         printf("Index = %d;\n",i);
     }
+    printf("Test for branch!\n");
     return 0;
 }
